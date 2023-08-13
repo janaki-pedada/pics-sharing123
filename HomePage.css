@@ -1,0 +1,29 @@
+.homepage-container {
+  padding: 30px;
+}
+.homepage-grid {
+  display: flex;
+  flex-wrap: wrap;
+  grid-template-columns: 100px 100px 100px; 
+  grid-gap: 40px;
+}
+.photo-container {
+  border: 5px solid #e6d9d965;
+  border-radius: 5px;
+}
+.photo-container img {
+  width: 200px; 
+  height: 200px; 
+  object-fit: cover; 
+}
+.book-names li {
+  margin-bottom: 5px;
+  color:black;
+  font-size: large;
+  font-weight: bold;
+}
+
+
+
+
+

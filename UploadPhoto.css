@@ -1,0 +1,47 @@
+body {
+  background-image: url('https://png.pngtree.com/thumb_back/fw800/background/20190223/ourmid/pngtree-full-3d-color-gradient-abstract-background-backgroundgradient-backgroundcreativesimplesmall-clear-image_84678.jpg');
+  margin-top: 10%; 
+}
+
+.container {
+  color: blueviolet;
+  max-width: 400px;
+  margin:0px auto;
+  padding: 20px;
+  background-color: #ff52b7;
+  border-radius: 5px;
+  }
+
+.header {
+  text-align: center;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.form-group {
+  margin-bottom: 10px;
+}
+
+.form-group input[type="file"] {
+  display: block;
+  margin-top: 10px;
+}  
+
+.form-group input[type="text"] {
+  width: 90%;
+  padding: 10px;
+}
+
+.submit-btn {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  background-color: #00ccff;
+  color: #fff;
+  border: dashed;
+  border-radius: 5px;
+ }
+
+.submit-btn:hover {
+  background-color: hsl(77, 6%, 78%);
+}
